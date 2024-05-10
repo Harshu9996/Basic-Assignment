@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Assignment</string>
+    <string name="project_url">https://enzmkamnxmjepndvlryw.supabase.co</string>
+    <string name="api_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVuem1rYW1ueG1qZXBuZHZscnl3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTQ5ODQ0NzgsImV4cCI6MjAzMDU2MDQ3OH0.4lhE_eF_QsEzwbkv2VxgTs-g4q0lVjG4NvmHWoP9r7k</string>
+</resources>
